@@ -4,6 +4,14 @@ html, body {
   padding: 0;
 
 }
+
+.imgcentro {
+  align-items: center;
+}
+
+
+
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
